@@ -24,7 +24,7 @@ __oraz ich zapis
 
 
 
-Wymagania niefunkcjonalne
+Wymagania niefunkcjonalne:
 *Interfejs związany z tematyką filmową (np.fragment taśmy filmowej) (3)
 *Wielojęzykowość(j.polski, j.angielski) (3)
 *System oceniania filmów-> gwiazdki (3) 
