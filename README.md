@@ -23,4 +23,4 @@ Autorzy:
 + System ocecniania filmów (gwiazdki) (3) 
  
 ##Use case: 
-https://www.dropbox.com/s/hhlfqdqgnpprfc3/nowy.png?dl=0 
+https://www.dropbox.com/s/7287j3f3hiradct/projekt_IO.png?dl=0
