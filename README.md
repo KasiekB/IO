@@ -21,5 +21,10 @@ Autorzy:
 + Interfejs związany z tematyką filmową (np fragment taśmy filmowej)  (3)
 + Wielojęzykowość (j.polski, j.angielski) (3) 
 + System ocecniania filmów (gwiazdki) (3) 
- 
 
+## Use case
+projekt_IO.png
+
+## Requirements Diagram 
+Requirement.png
+Requirement.dia
