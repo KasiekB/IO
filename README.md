@@ -23,8 +23,8 @@ Autorzy:
 + System ocecniania filmów (gwiazdki) (3) 
 
 ## Use case
-projekt_IO.png
++ projekt_IO.png
 
 ## Requirements Diagram 
-Requirement.png
-Requirement.dia
++ Requirement.png
++ Requirement.dia
