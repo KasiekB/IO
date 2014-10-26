@@ -22,5 +22,4 @@ Autorzy:
 + Wielojęzykowość (j.polski, j.angielski) (3) 
 + System ocecniania filmów (gwiazdki) (3) 
  
-##Use case: 
-https://www.dropbox.com/s/hhlfqdqgnpprfc3/nowy.png?dl=0 
+
