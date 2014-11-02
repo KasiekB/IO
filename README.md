@@ -28,3 +28,6 @@ Autorzy:
 ## Requirements Diagram 
 + Requirement.png
 + Requirement.dia
+
+## Class Diagram
++ Class Diagram.zargo
