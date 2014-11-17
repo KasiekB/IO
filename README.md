@@ -25,9 +25,13 @@ Autorzy:
 ## Use case
 + projekt_IO.png
 
+
 ## Requirements Diagram 
 + Requirement.png
 + Requirement.dia
 
 ## Class Diagram
 + Class Diagram.zargo
+
+## Sequency Diagram
++ Sequency.zargo
