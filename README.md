@@ -32,6 +32,7 @@ Autorzy:
 
 ## Class Diagram
 + Class Diagram.zargo
++ Class Diagram2.zargo // Diagram uzupelniony po stworzeniu Sequency Diagram
 
 ## Sequency Diagram
 + Sequency.zargo
